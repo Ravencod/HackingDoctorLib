@@ -1,24 +1,10 @@
-# README
+## Exercice de Jeudi 25 Octobre :sunny: 
+### Greetings
+<p>Dear moussaillon,</p>
+<p>Attaché à ce repo se trouve l'exo Hacking_DoctorLib réalisé avec ActiveRecord</strong></p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Noms | Pseudo Slack
+------------ | -------------
+Raphael Caillaux| @Raphael
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Bonne correction ! :poop:
